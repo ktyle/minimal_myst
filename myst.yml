@@ -1,0 +1,23 @@
+version: 1
+project:
+  title: Minimal MyST Notebook Repo
+  github: https://github.com/ktyle/minimal
+  authors:
+    - name: Kevin Tyle
+      affiliations:
+        - University at Albany
+        - Project Pythia
+      orcid: 0000-0001-5249-9665
+      email: ktyle@albany.edu
+      twitter: nywxguy
+      bluesky: https://bsky.app/profile/nywxguy.bsky.social
+  copyright: '2025'
+  toc:
+  - file: README.md
+  - title: Notebooks
+    children:
+      - file: notebooks/minimal.ipynb
+site:
+  options:
+    folders: true
+  template: book-theme
