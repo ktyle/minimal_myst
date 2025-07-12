@@ -18,10 +18,12 @@ The ephemeral Jupyter server process should exit normally in both command line i
 Mac OS 15.5, M1; Oracle Linux 8,  x86_64
 
 ## Relevant Python packages
+```
 mystmd==1.5.1
 jupyterlab_server==2.27.3
 jupyterlab-myst==2.4.2
 jupyterlab==4.4.4
+```
 
 ## Authors
 
